@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>Comment</key>
-		<string>Based on codeskipper SuspiciousPackage recipe
-		https://github.com/codeskipper/WorkSpaceOneImporter/blob/main/ws1/SuspiciousPackage.ws1.recipe.yaml
-		</string>
 		<key>Description</key>
 		<string>Creates a munki package for Suspicious Package, and imports it into WorkSpace ONE.</string>
 		<key>Identifier</key>
